@@ -183,5 +183,5 @@ setup(
         'tqdm>=4.66.3',
         'matplotlib>=3.6.0'
     ],
-    python_requires='>=3.8, <3.14'
+    python_requires='>=3.8, <3.13'
 )
